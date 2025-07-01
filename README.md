@@ -24,10 +24,7 @@
 
 ## License
 
-This project is licensed under the [LICENSE NAME](LICENSE).
+This project is licensed under the MIT (LICENSE).
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
----
-
-Let me know if you want this saved as a downloadable file or tailored to a specific project!
