@@ -8,7 +8,7 @@
 
 ## Features
 
-* Uses the ATTiny84 microcontroller.
+* 
 
 ---
 
