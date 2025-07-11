@@ -2,13 +2,15 @@
 
 # PCB Business Card
 
-> Creating a board with a microcontroller in the business card form factor for an upcoming careeer fair
+> Creating a board with NFC capabilities.
 
 ---
 
 ## Features
 
-* 
+* NFC
+* QR code
+
 
 ---
 
